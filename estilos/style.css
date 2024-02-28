@@ -1,0 +1,25 @@
+*{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+}
+body{
+    background-color: burlywood;
+    color: #214778;
+}
+main{
+    color:rgb(103, 15, 15);
+    width: 100%;
+    margin: auto;
+    padding: 15px;
+    text-align: justify;
+}
+footer{
+    text-align: center;
+    background-color: #214778;
+    color:burlywood;
+}
+h1{
+    color:#214778;
+    text-align: center;
+}
